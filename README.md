@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ebasa-dev
+- 👋 Hi, I’m Eba
 - 👀 I’m interested in Android Development and Cybersecurity 
 - 🌱 I’m currently learning Cybersecurity 
 - 💞️ I’m looking to collaborate on Android Sysytem Development 
